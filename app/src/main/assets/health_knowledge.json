@@ -1,0 +1,315 @@
+{
+  "healthConditions": [
+    {
+      "id": "fever_common",
+      "name": "Common Fever",
+      "nameHindi": "सामान्य बुखार",
+      "category": "FEVER_ILLNESS",
+      "symptoms": [
+        "Body temperature above 100.4°F (38°C)",
+        "Feeling hot or flushed",
+        "Chills or shivering",
+        "Headache",
+        "Body aches",
+        "Weakness or fatigue"
+      ],
+      "symptomsHindi": [
+        "शरीर का तापमान 100.4°F (38°C) से अधिक",
+        "गर्मी या तपिश महसूस होना",
+        "कंपकंपी या ठंड लगना",
+        "सिर दर्द",
+        "शरीर में दर्द",
+        "कमजोरी या थकान"
+      ],
+      "firstAidSteps": [
+        "Rest in a cool, comfortable place",
+        "Drink plenty of fluids - water, ORS, coconut water",
+        "Take paracetamol as per age-appropriate dosage",
+        "Use cold compresses on forehead",
+        "Wear light, loose clothing",
+        "Monitor temperature every 2-4 hours"
+      ],
+      "firstAidStepsHindi": [
+        "ठंडी, आरामदायक जगह पर आराम करें",
+        "भरपूर तरल पदार्थ लें - पानी, ORS, नारियल पानी",
+        "उम्र के अनुसार पेरासिटामॉल लें",
+        "माथे पर ठंडी पट्टी रखें",
+        "हल्के, ढीले कपड़े पहनें",
+        "हर 2-4 घंटे में तापमान चेक करें"
+      ],
+      "whenToSeekHelp": [
+        "Fever above 103°F (39.4°C)",
+        "Fever lasting more than 3 days",
+        "Difficulty breathing",
+        "Severe headache or neck stiffness",
+        "Persistent vomiting",
+        "Signs of dehydration",
+        "Confusion or drowsiness"
+      ],
+      "whenToSeekHelpHindi": [
+        "103°F (39.4°C) से अधिक बुखार",
+        "3 दिन से अधिक बुखार",
+        "सांस लेने में कठिनाई",
+        "तेज सिर दर्द या गर्दन में अकड़न",
+        "लगातार उल्टी",
+        "पानी की कमी के लक्षण",
+        "भ्रम या सुस्ती"
+      ],
+      "prevention": [
+        "Maintain good hygiene",
+        "Wash hands regularly",
+        "Avoid crowded places during illness outbreaks",
+        "Stay hydrated",
+        "Get adequate sleep",
+        "Eat nutritious food"
+      ],
+      "preventionHindi": [
+        "अच्छी स्वच्छता बनाए रखें",
+        "नियमित रूप से हाथ धोएं",
+        "बीमारी फैलने पर भीड़भाड़ वाली जगहों से बचें",
+        "पानी पिएं",
+        "पर्याप्त नींद लें",
+        "पौष्टिक भोजन करें"
+      ],
+      "severity": "MILD",
+      "ageSpecific": {
+        "children": "For children under 3 months with fever, seek immediate medical attention",
+        "elderly": "Elderly people may not show high fever even with serious infections"
+      },
+      "tags": [
+        "fever",
+        "बुखार",
+        "temperature",
+        "तापमान"
+      ]
+    },
+    {
+      "id": "diarrhea",
+      "name": "Diarrhea",
+      "nameHindi": "दस्त",
+      "category": "DIGESTIVE",
+      "symptoms": [
+        "Loose, watery stools",
+        "Frequent bowel movements",
+        "Abdominal cramps",
+        "Nausea",
+        "Vomiting",
+        "Fever (sometimes)"
+      ],
+      "symptomsHindi": [
+        "पानी जैसा पतला मल",
+        "बार-बार दस्त आना",
+        "पेट में मरोड़",
+        "जी मिचलाना",
+        "उल्टी",
+        "बुखार (कभी-कभी)"
+      ],
+      "firstAidSteps": [
+        "Drink plenty of fluids - ORS solution is best",
+        "BRAT diet: Bananas, Rice, Applesauce, Toast",
+        "Avoid dairy products temporarily",
+        "Take probiotics if available",
+        "Rest and avoid strenuous activity",
+        "Monitor for signs of dehydration"
+      ],
+      "firstAidStepsHindi": [
+        "भरपूर तरल पदार्थ लें - ORS घोल सबसे अच्छा है",
+        "केला, चावल, सेब का रस, टोस्ट लें",
+        "अस्थायी रूप से दूध उत्पादों से बचें",
+        "यदि उपलब्ध हो तो प्रोबायोटिक्स लें",
+        "आराम करें और कड़ी मेहनत से बचें",
+        "पानी की कमी के लक्षणों पर नजर रखें"
+      ],
+      "whenToSeekHelp": [
+        "Signs of severe dehydration",
+        "Blood in stool",
+        "High fever (above 102°F)",
+        "Severe abdominal pain",
+        "Diarrhea lasting more than 3 days",
+        "Vomiting that prevents keeping fluids down"
+      ],
+      "whenToSeekHelpHindi": [
+        "गंभीर निर्जलीकरण के लक्षण",
+        "मल में खून",
+        "तेज बुखार (102°F से अधिक)",
+        "तेज पेट दर्द",
+        "3 दिन से अधिक दस्त",
+        "उल्टी जो तरल पदार्थ रोकने न दे"
+      ],
+      "prevention": [
+        "Drink clean, boiled water",
+        "Eat freshly cooked food",
+        "Wash hands before eating",
+        "Avoid street food",
+        "Store food properly",
+        "Maintain kitchen hygiene"
+      ],
+      "preventionHindi": [
+        "साफ, उबला हुआ पानी पिएं",
+        "ताजा पका हुआ खाना खाएं",
+        "खाने से पहले हाथ धोएं",
+        "स्ट्रीट फूड से बचें",
+        "खाना सही तरीके से स्टोर करें",
+        "रसोई की सफाई रखें"
+      ],
+      "severity": "MODERATE",
+      "ageSpecific": {
+        "children": "Children dehydrate quickly - seek help if persistent vomiting or decreased urination",
+        "elderly": "Elderly are at higher risk of dehydration complications"
+      },
+      "tags": [
+        "diarrhea",
+        "दस्त",
+        "loose motion",
+        "पेट खराब"
+      ]
+    }
+  ],
+  "healthTips": [
+    {
+      "id": "hydration_summer",
+      "title": "Stay Hydrated in Summer",
+      "titleHindi": "गर्मियों में हाइड्रेटेड रहें",
+      "description": "Drink at least 8-10 glasses of water daily. Include ORS, coconut water, and buttermilk. Avoid excessive tea, coffee, and sugary drinks.",
+      "descriptionHindi": "दिन में कम से कम 8-10 गिलास पानी पिएं। ORS, नारियल पानी, और छाछ शामिल करें। अधिक चाय, कॉफी और मीठे पेय से बचें।",
+      "category": "PREVENTIVE_CARE",
+      "season": "summer",
+      "targetGroup": "all"
+    },
+    {
+      "id": "hand_hygiene",
+      "title": "Proper Hand Washing",
+      "titleHindi": "सही तरीके से हाथ धोना",
+      "description": "Wash hands with soap for at least 20 seconds, especially before eating, after using toilet, and after coughing/sneezing.",
+      "descriptionHindi": "कम से कम 20 सेकंड तक साबुन से हाथ धोएं, खासकर खाने से पहले, शौचालय के बाद, और खांसी/छींक के बाद।",
+      "category": "PREVENTIVE_CARE",
+      "season": "all",
+      "targetGroup": "all"
+    },
+    {
+      "id": "child_nutrition",
+      "title": "Balanced Diet for Children",
+      "titleHindi": "बच्चों के लिए संतुलित आहार",
+      "description": "Include variety of foods: cereals, pulses, vegetables, fruits, milk products. Avoid junk food and excessive sweets.",
+      "descriptionHindi": "विभिन्न प्रकार के खाद्य पदार्थ शामिल करें: अनाज, दाल, सब्जियां, फल, दूध उत्पाद। जंक फूड और अधिक मिठाई से बचें।",
+      "category": "CHILD_HEALTH",
+      "season": "all",
+      "targetGroup": "children"
+    }
+  ],
+  "nutritionInfo": [
+    {
+      "id": "tulsi",
+      "foodItem": "Tulsi (Holy Basil)",
+      "foodItemHindi": "तुलसी",
+      "benefits": [
+        "Boosts immunity",
+        "Helps with cough and cold",
+        "Reduces stress"
+      ],
+      "benefitsHindi": [
+        "प्रतिरक्षा बढ़ाता है",
+        "खांसी और जुकाम में मदद करता है",
+        "तनाव कम करता है"
+      ],
+      "goodFor": [
+        "respiratory issues",
+        "fever",
+        "stress"
+      ],
+      "goodForHindi": [
+        "सांस की समस्याएं",
+        "बुखार",
+        "तनाव"
+      ],
+      "localNames": {
+        "hindi": "तुलसी",
+        "tamil": "துளசி",
+        "telugu": "తులసి",
+        "marathi": "तुळस"
+      },
+      "season": "all"
+    },
+    {
+      "id": "ginger",
+      "foodItem": "Ginger",
+      "foodItemHindi": "अदरक",
+      "benefits": [
+        "Reduces nausea",
+        "Anti-inflammatory",
+        "Aids digestion"
+      ],
+      "benefitsHindi": [
+        "जी मिचलाना कम करता है",
+        "सूजन-रोधी",
+        "पाचन में सहायक"
+      ],
+      "goodFor": [
+        "nausea",
+        "indigestion",
+        "cold"
+      ],
+      "goodForHindi": [
+        "जी मिचलाना",
+        "अपच",
+        "सर्दी-जुकाम"
+      ],
+      "localNames": {
+        "hindi": "अदरक",
+        "tamil": "இஞ்சி",
+        "telugu": "అల్లం",
+        "marathi": "आले"
+      },
+      "season": "all"
+    }
+  ],
+  "emergencyContacts": [
+    {
+      "id": "ambulance",
+      "type": "ambulance",
+      "number": "108",
+      "description": "National Emergency Ambulance Service",
+      "descriptionHindi": "राष्ट्रीय आपातकालीन एम्बुलेंस सेवा",
+      "availability": "24/7"
+    },
+    {
+      "id": "health_helpline",
+      "type": "helpline",
+      "number": "104",
+      "description": "National Health Helpline",
+      "descriptionHindi": "राष्ट्रीय स्वास्थ्य हेल्पलाइन",
+      "availability": "24/7"
+    },
+    {
+      "id": "police",
+      "type": "emergency",
+      "number": "100",
+      "description": "Police Emergency Service",
+      "descriptionHindi": "पुलिस आपातकालीन सेवा",
+      "availability": "24/7"
+    },
+    {
+      "id": "women_helpline",
+      "type": "helpline",
+      "number": "1091",
+      "description": "Women Helpline",
+      "descriptionHindi": "महिला हेल्पलाइन",
+      "availability": "24/7"
+    },
+    {
+      "id": "child_helpline",
+      "type": "helpline",
+      "number": "1098",
+      "description": "Child Helpline",
+      "descriptionHindi": "बाल हेल्पलाइन",
+      "availability": "24/7"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2024-01-15",
+    "language": "en-hi",
+    "region": "india",
+    "medicalDisclaimer": "This information is for educational purposes only and is not a substitute for professional medical advice, diagnosis, or treatment. Always consult qualified healthcare providers for medical emergencies and serious health conditions."
+  }
+}
