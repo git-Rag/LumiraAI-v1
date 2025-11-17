@@ -22,7 +22,7 @@
     <uses-permission android:name="android.permission.VIBRATE" />
 
     <application
-        android:name=".LumiraApplication"
+        android:name="com.runanywhere.lumiraai.LumiraApplication"
         android:allowBackup="true"
         android:largeHeap="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -33,7 +33,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LumiraAI">
         <activity
-            android:name=".MainActivity"
+            android:name="com.runanywhere.lumiraai.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.LumiraAI">
